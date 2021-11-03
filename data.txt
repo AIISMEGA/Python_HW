@@ -1,0 +1,3 @@
+The universe is a program!
+Written by a junior who doesn't really know how to program!
+It remains to understand the code and rewrite the program!
